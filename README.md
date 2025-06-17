@@ -1,2 +1,3 @@
 # Lib_System
-Standalone Project 
+Standalone Project For Library Management System
+
